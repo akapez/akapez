@@ -18,3 +18,14 @@
 <img align="left" alt="vscode" height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 <img align="left" alt="adobeXD" height="32" width="32" src="https://simpleicons.org/icons/adobexd.svg" />
 
+<br />
+<br />
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+ <img align="left" alt="Avishka's GitHub Stats" src="https://github-readme-stats.avishka964.vercel.app/api?username=avishka964&show_icons=true&hide_border=true" />
+
+</details>
