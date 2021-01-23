@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**avishka964/avishka964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full-Stack developer and also passionate about UI/UX designs.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning MERN STACK
+- ⚡ Fun fact: I love to watch movies / travel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages and Tools:
+
+<img align="left" alt="html5" height="32" width="32" src="https://simpleicons.org/icons/html5.svg" />
+<img align="left" alt="css3" height="32" width="32" src="https://simpleicons.org/icons/css3.svg" />
+<img align="left" alt="javascript" height="32" width="32" src="https://simpleicons.org/icons/javascript.svg" />
+<img align="left" alt="react.js" height="32" width="32" src="https://simpleicons.org/icons/react.svg" />
+<img align="left" alt="node.js" height="32" width="32" src="https://simpleicons.org/icons/node-dot-js.svg" />
+<img align="left" alt="express.js" height="32" width="32" src="https://simpleicons.org/icons/express.svg" />
+<img align="left" alt="mongoDB" height="32" width="32" src="https://simpleicons.org/icons/mongodb.svg" />
+<img align="left" alt="vscode" height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left" alt="adobeXD" height="32" width="32" src="https://simpleicons.org/icons/adobexd.svg" />
+
