@@ -2,7 +2,8 @@
 
 ## I'm a Full-Stack developer and also passionate about UI/UX designs.
 
-- 🌱 I’m currently learning MERN STACK dev
+- 🔭 Now launched my portfolio [Website](https://www.avishkakapuruge.me/)  
+- 🌱 I’m currently learning MERN STACK
 - ⚡  Fun fact: I love to watch movies / travel
 - 📫 You can reach me [LinkedIn](https://www.linkedin.com/in/avishka-kapuruge-04510a1b7/) 
 
