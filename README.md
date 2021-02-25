@@ -5,7 +5,7 @@
 - 🔭 Now launched my portfolio [Website](https://www.avishkakapuruge.me/)  
 - 🌱 I’m currently learning MERN STACK.
 - ⚡  Fun fact: I love to watch movies / travel.
-- 🔥 freeCodeCamp [Profile](https://www.freecodecamp.org/avishka_96)
+- 🔥 FreeCodeCamp [Profile](https://www.freecodecamp.org/avishka_96)
 - 📫 You can reach me [LinkedIn](https://www.linkedin.com/in/avishka-kapuruge-04510a1b7/) 
 
 
