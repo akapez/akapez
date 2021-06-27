@@ -29,6 +29,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- <img align="left" alt="Avishka's GitHub Stats" src="https://github-readme-stats.avishka964.vercel.app/api/top-langs/?username=avishka964&show_icons=true&hide_border=true&bg_color=f1f1f1" />
+ <img align="left" alt="Avishka's GitHub Stats" src="https://github-readme-stats-avishka964.vercel.app/api/top-langs/?username=avishka964&show_icons=true&hide_border=true&bg_color=f1f1f1" />
 
 </details>
