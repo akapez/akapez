@@ -2,13 +2,6 @@
 
 ## I'm a Full-Stack developer and also passionate about UI/UX designs.
 
-- 🔭 Portfolio [Website](https://www.avishkakapuruge.me/)  
-- 🌱 I’m currently learning MERN STACK.
-- ⚡  Fun fact: I love to watch movies / travel.
-- 🔥 FreeCodeCamp [Profile](https://www.freecodecamp.org/avishka_96)
-- 📫 You can reach me [LinkedIn](https://www.linkedin.com/in/avishka-kapuruge-04510a1b7/) 
-
-
 ### Languages and Tools:
 
 <img align="left" alt="html5" height="32" width="32" src="https://simpleicons.org/icons/html5.svg" />
