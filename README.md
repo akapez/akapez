@@ -13,6 +13,8 @@
 <img align="left" alt="mongoDB" height="32" width="32" src="https://simpleicons.org/icons/mongodb.svg" />
 <img align="left" alt="vscode" height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 <img align="left" alt="adobeXD" height="32" width="32" src="https://simpleicons.org/icons/adobexd.svg" />
+<img align="left" alt="swift" height="32" width="32" src="https://simpleicons.org/icons/swift.svg" />
+<img align="left" alt="xcode" height="32" width="32" src="https://simpleicons.org/icons/xcode.svg" />
 
 <br />
 <br />
