@@ -10,4 +10,3 @@
 <img align="left" alt="firebase" height="32" width="32" src="https://cdn.simpleicons.org/firebase/gray" />
 <img align="left" alt="xcode" height="32" width="32" src="https://cdn.simpleicons.org/xcode/gray" />
 <img align="left" alt="unity" height="32" width="32" src="https://cdn.simpleicons.org/unity/gray" />
-<img align="left" alt="figma" height="32" width="32" src="https://cdn.simpleicons.org/figma/gray" />
