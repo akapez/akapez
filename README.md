@@ -10,6 +10,3 @@
 <img align="left" alt="storybook" height="32" width="32" src="https://cdn.simpleicons.org/storybook/gray" />
 <img align="left" alt="nodejs" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/gray" />
 <img align="left" alt="nestjs" height="32" width="32" src="https://cdn.simpleicons.org/nestjs/gray" />
-<img align="left" alt="mongodb" height="32" width="32" src="https://cdn.simpleicons.org/mongodb/gray" />
-<img align="left" alt="mysql" height="32" width="32" src="https://cdn.simpleicons.org/mysql/gray" />
-
